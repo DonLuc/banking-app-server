@@ -1,0 +1,16 @@
+{
+  "accounts":
+  [
+    {"account":"111222333","balance":100,"overdraft":300},
+    {"account":"123456789","balance":100,"overdraft":100},
+    {"account":"987654321","balance":200,"overdraft":0},
+    {"account":"9898989898","balance":1003,"overdraft":211},
+    {"account":"32321122333","balance":1000,"overdraft":100},
+    {"account":"5442323123","balance":1000,"overdraft":100}
+  ],
+  "clients":
+    [
+      {"client":"B8os8Ryx60YFdtoBkrdb2zKD1uC2","accounts":[123456789,987654321],"age":21,"name":"Rob Rider"},
+      {"client":"UZyMgwSApiN0b148VDrZSAeWkfb2","accounts":[111222333],"age":42,"name":"Bob Builder"}
+    ]}
+      
